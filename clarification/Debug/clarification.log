@@ -1,0 +1,16 @@
+﻿  clarification.cpp
+c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(20): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(25): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(28): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(35): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(38): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(51): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(54): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(57): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(60): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(69): warning C4838: преобразование из "float" в "int" требует сужающего преобразования
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(69): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  clarification.vcxproj -> C:\Users\Maxim Cherepanov\source\repos\clarification\Debug\clarification.exe
