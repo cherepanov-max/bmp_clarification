@@ -27,8 +27,8 @@ c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification
 c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(87): warning C4101: b: неиспользованная локальная переменная
 c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(87): warning C4101: g: неиспользованная локальная переменная
 c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(87): warning C4101: r: неиспользованная локальная переменная
-c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(312): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(315): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(327): warning C4018: >=: несоответствие типов со знаком и без знака
-c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(308): warning C4101: x: неиспользованная локальная переменная
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(318): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(321): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(341): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(311): warning C4101: x: неиспользованная локальная переменная
   clarification.vcxproj -> C:\Users\Maxim Cherepanov\source\repos\clarification\Debug\clarification.exe
