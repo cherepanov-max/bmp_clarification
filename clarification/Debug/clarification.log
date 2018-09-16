@@ -1,16 +1,34 @@
 ﻿  clarification.cpp
 c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
-c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(20): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(25): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
-c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(28): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
-c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(35): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
-c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(38): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
-c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(51): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(54): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(57): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(60): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(69): warning C4838: преобразование из "float" в "int" требует сужающего преобразования
-c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(69): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(1): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+  c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp: note: см. предыдущее определение "_CRT_SECURE_NO_WARNINGS"
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(1): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(1): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(2): note: использование предварительно скомпилированного заголовка
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(34): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(35): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(36): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(39): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(42): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(49): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(52): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(65): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(68): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(71): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(74): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(88): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(89): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(168): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(169): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(170): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(206): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(207): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(208): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(87): warning C4101: b: неиспользованная локальная переменная
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(87): warning C4101: g: неиспользованная локальная переменная
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(87): warning C4101: r: неиспользованная локальная переменная
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(312): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(315): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(327): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\users\maxim cherepanov\source\repos\clarification\clarification\clarification.cpp(308): warning C4101: x: неиспользованная локальная переменная
   clarification.vcxproj -> C:\Users\Maxim Cherepanov\source\repos\clarification\Debug\clarification.exe
